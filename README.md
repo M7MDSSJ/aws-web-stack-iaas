@@ -140,8 +140,6 @@ This repository is organized to clearly separate concerns:
 
 - Demonstrate real-world AWS architecture skills
 - Practice IaaS-based deployments
-- Build a strong DevOps / Cloud portfolio project
-- Prepare for technical interviews and system design discussions
 
 ---
 
