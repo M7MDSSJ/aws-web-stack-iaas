@@ -46,7 +46,7 @@ The project focuses on:
 
 ## 🖼 Architecture Diagram
 
-![Architecture Diagram](architecture/architecture-diagram.png)
+![Architecture Diagram](architecture/architecture-diagram.jpg)
 
 A detailed explanation of the architecture can be found in:  
 `architecture/architecture-overview.md`
